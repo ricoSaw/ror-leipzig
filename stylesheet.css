@@ -28,7 +28,7 @@ a:hover {
   top: 40px;
   left: 280px;
 
-  width: 500px;
+  width: 700px;
 }
 
 #main h1 {
@@ -38,6 +38,7 @@ a:hover {
   line-height: 40px;
 
   letter-spacing: -1px;
+  margin-bottom: 40px;
 }
 
 #main p {
